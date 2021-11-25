@@ -8,10 +8,12 @@
 <IMG src="https://novatorem.vercel.app/api/spotify">
  
 ━━━━━━━━━━━━━━━━━━━━━━━━━
+- 👉 https://t.me/social_mechanic_199
 ━━━━━━━━━━━━━━━━━━━━━━━━━
-- 👉 https://t.me/social_mechanic_1997
-- 👉 https://t.me/TECHNOLOGY_CORNER_1
-- 👉 https://t.me/tamil_chat_group_1
+
+## Support & Updates 🎑
+<a href="https://t.me/tamil_chat_group_1"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/TECHNOLOGY_CORNER_1"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
