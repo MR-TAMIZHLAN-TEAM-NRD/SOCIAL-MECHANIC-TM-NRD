@@ -7,9 +7,9 @@
 
 <IMG src="https://novatorem.vercel.app/api/spotify">
  
-━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
 - 👉 https://t.me/social_mechanic_199
-━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Support & Updates 🎑
 <a href="https://t.me/tamil_chat_group_1"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/TECHNOLOGY_CORNER_1"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
@@ -20,24 +20,18 @@
 
 
 
-<!---
-SOCIAL-MECHANIC-NRD/SOCIAL-MECHANIC-NRD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 **** 
- <a href="https://github.com/rasindugimhan/handle-path-oz">
-    <img align="center" alt="rasindugimhan's github stats" src="https://github-readme-stats.vercel.app/api?username=rasindugimhan&show_icons=true&theme=midnight-purple" />
+ <a href="https://github.com/SOCIAL-MECHANIC-TM-NRD/handle-path-oz">
+    <img align="center" alt="rasindugimhan's github stats" src="https://github-readme-stats.vercel.app/api?username=SOCIAL-MECHANIC-TM-NRD&show_icons=true&theme=midnight-purple" />
   </a>
 
 <br>
 <br>
 
 - ![Profile views](https://gpvc.arturio.dev/rasindugimhan)
-- [![GitHub followers](https://img.shields.io/github/followers/rasindugimhan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/rasindugimhan?tab=followers)
+- [![GitHub followers](https://img.shields.io/github/followers/rasindugimhan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/SOCIAL-MECHANIC-TM-NRD?tab=followers)
 
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=levina-lab&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/SOCIAL-MECHANIC-NRD)
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=levina-lab&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/SOCIAL-MECHANIC-TM-NRD)
   
  
 
@@ -45,6 +39,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MoeZilla&theme=dark"/></p>
 
 <br>
+
 
 ---
 
@@ -69,3 +64,8 @@ You can click the Preview link to take a look at your changes.
  - 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 
      👉🏼 [![SOCIAL MECHANIC](https://awesome.re/mentioned-badge.svg)](https://t.me/social_mechanic_1997)
 <img src="https://github.com/AnshumanFauzdar/AnshumanFauzdar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+
+<!---
+SOCIAL-MECHANIC-NRD/SOCIAL-MECHANIC-NRD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
