@@ -1,10 +1,9 @@
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━
-- 👋 Hi, I’m @SOCIAL-MECHANIC-NRD
-- 👀 I’m interested in ...Robtics
-- 🌱 I’m currently learning ...codings
-- 💞️ I’m looking to collaborate on ... Robots
-- 📫 How to reach me ... TELEGRAM 
-
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━
+- 👋 𝙃𝙞, 𝙄’𝙢 @𝙎𝙊𝘾𝙄𝘼𝙇-𝙈𝙀𝘾𝙃𝘼𝙉𝙄𝘾-𝙉𝙍𝘿
+- 👀 𝙄’𝙢 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙞𝙣 ...𝙍𝙤𝙗𝙩𝙞𝙘𝙨
+- 🌱 𝙄’𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 ...𝙘𝙤𝙙𝙞𝙣𝙜𝙨
+- 💞️ 𝙄’𝙢 𝙡𝙤𝙤𝙠𝙞𝙣𝙜 𝙩𝙤 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙚 𝙤𝙣 ... 𝙍𝙤𝙗𝙤𝙩𝙨
+- 📫 𝙃𝙤𝙬 𝙩𝙤 𝙧𝙚𝙖𝙘𝙝 𝙢𝙚 ... 𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈 
 
 <IMG src="https://novatorem.vercel.app/api/spotify">
  
