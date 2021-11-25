@@ -10,7 +10,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━
 ━━━━━━━━━━━━━━━━━━━━━━━━━
 - 👉 https://t.me/social_mechanic_1997
-- 👉 https://t.me/TECHNOLGY_CORNER
+- 👉 https://t.me/TECHNOLOGY_CORNER_1
 - 👉 https://t.me/tamil_chat_group_1
 ━━━━━━━━━━━━━━━━━━━━━━━━━
 
