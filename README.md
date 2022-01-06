@@ -1,4 +1,5 @@
-Hello all
+Hello 
 
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=social-mechanic-team-nrd&label=Views&color=blue&style=plastic
+![](https://hit.yhype.me/github/profile?user_id=1849174)
